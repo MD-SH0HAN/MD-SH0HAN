@@ -67,6 +67,13 @@ I'm learning how to build, deploy, automate, and manage reliable infrastructure 
 ![OpenSSH](https://img.shields.io/badge/OpenSSH-2E8B57?style=for-the-badge&logo=openssh&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
+## 🏗️ My Engineering Roadmap
+
+Exploring the journey from Linux and Cloud fundamentals to
+DevOps, reliability engineering, and Platform Engineering.
+
+[Explore my architecture diagrams and learning roadmap](./docs/platform-engineering-architecture.md)
+
 ## 🤝 Connect With Me
 
 <p align="left">
