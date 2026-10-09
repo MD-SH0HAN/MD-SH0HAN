@@ -1,0 +1,81 @@
+
+name: Update Profile Statistics
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Runs daily at 17:23 UTC (23:23 in Bangladesh).
+    # Scheduling can occasionally be delayed by GitHub.
+    - cron: "23 17 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    name: Generate statistics cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Create profile image directory
+        run: mkdir -p profile
+
+      - name: Generate light statistics card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=default"
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate dark statistics card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=dark"
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate light top-languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=default"
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate dark top-languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark"
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit updated statistics cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            profile/stats-light.svg \
+            profile/stats-dark.svg \
+            profile/top-langs-light.svg \
+            profile/top-langs-dark.svg
+
+          if git diff --cached --quiet; then
+            echo "Statistics cards have not changed."
+            exit 0
+          fi
+
+          git commit -m "chore: update profile statistics"
+          git push
