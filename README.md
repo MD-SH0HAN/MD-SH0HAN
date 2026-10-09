@@ -148,7 +148,6 @@ I'm learning how to build, deploy, automate, and manage reliable infrastructure 
 <!-- GITHUB_STATS:END -->
 
 
-<!-- CONTRIBUTION_SNAKE:START -->
 
 ## 🐍 Contribution Snake
 
@@ -156,21 +155,20 @@ I'm learning how to build, deploy, automate, and manage reliable infrastructure 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SHOHAN/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SHOHAN/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SHOHAN/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg"
       alt="Animated GitHub contribution snake"
       width="100%"
     />
   </picture>
 </p>
 
-<!-- CONTRIBUTION_SNAKE:END -->
 
 
 💡 *Learning · Building · Automating · Growing*
