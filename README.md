@@ -149,24 +149,27 @@ I'm learning how to build, deploy, automate, and manage reliable infrastructure 
 
 
 <!-- CONTRIBUTION_SNAKE:START -->
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SHOHAN/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SHOHAN/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="Animated snake following my GitHub contribution graph"
-      src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SHOHAN/output/github-contribution-grid-snake.svg"
+      alt="Animated GitHub contribution snake"
+      width="100%"
     />
   </picture>
 </p>
+
 <!-- CONTRIBUTION_SNAKE:END -->
 
 
