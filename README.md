@@ -1,7 +1,7 @@
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./ID Banner (Dark).gif">
-  <source media="(prefers-color-scheme: light)" srcset="./ID Banner (Light).gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./ID Banner Dark Version.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./ID Banner Light Version.gif">
   <img alt="MD SHOHAN — Cloud and DevOps, learning Linux, Kubernetes, and Terraform" src="./light.gif" width="100%">
 </picture>
 
