@@ -5,9 +5,9 @@
   <img alt="MD SHOHAN — Cloud and DevOps, learning Linux, Kubernetes, and Terraform" src="./light.gif" width="100%">
 </picture>
 
-# MD-SHOHAN
+# MD SHOHAN
 Personal GitHub Profile Showcasing My Engineering Learning Journey, Projects, And Technologies.
-## 👋 About Me
+# 👨‍💻 About Me
 
 Hi, I'm **MD SHOHAN**, a Computer Science & Engineering student at Bangladesh University with a strong interest in **Cloud Computing and DevOps**.
 
