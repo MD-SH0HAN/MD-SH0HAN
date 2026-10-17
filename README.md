@@ -117,38 +117,45 @@ A concise description of the problem, solution, and technologies used.
 
 ## 🤝 Connect With Me
 
-I'm happy to connect with fellow learners, developers, and people interested in Cloud Computing, DevOps, and infrastructure engineering.
+I'm happy to connect with fellow learners, developers, and people interested in Cloud Computing, DevOps, and Infrastructure Engineering.
 
-<p>
+<p align="left">
   <a href="https://www.md-shohan.com">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Visit my portfolio"
-    >
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/MD-SH0HAN">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="My GitHub profile"
-    >
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:mohammad.and.shohan@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email me"
-    >
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-<p>
-  <a href="https://www.facebook.com/mohammad.and.shohan">Facebook</a> •
-  <a href="https://www.instagram.com/_md.shohan_/">Instagram</a> •
-  <a href="https://www.threads.com/@_md.shohan_">Threads</a> •
-  <a href="https://www.twitch.tv/md_shohan">Twitch</a> •
-  <a href="https://www.tumblr.com/md-shohan">Tumblr</a> •
-  <a href="https://www.reddit.com/user/MD-SH0HAN/">Reddit</a>
+<p align="left">
+  <a href="https://www.facebook.com/mohammad.and.shohan">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="36" height="36" alt="Facebook">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_md.shohan_/">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" height="36" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://www.threads.com/@_md.shohan_">
+    <img src="https://img.icons8.com/ios-filled/50/threads.png" width="36" height="36" alt="Threads">
+  </a>
+  &nbsp;
+  <a href="https://www.twitch.tv/md_shohan">
+    <img src="https://img.icons8.com/color/48/twitch.png" width="36" height="36" alt="Twitch">
+  </a>
+  &nbsp;
+  <a href="https://www.tumblr.com/md-shohan">
+    <img src="https://img.icons8.com/color/48/tumblr.png" width="36" height="36" alt="Tumblr">
+  </a>
+  &nbsp;
+  <a href="https://www.reddit.com/user/MD-SH0HAN/">
+    <img src="https://img.icons8.com/color/48/reddit.png" width="36" height="36" alt="Reddit">
+  </a>
 </p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
