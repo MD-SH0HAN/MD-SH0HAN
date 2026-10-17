@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="assets/shohan-github-header.svg" width="100%" alt="MD SHOHAN">
+  <img src="assets/Header.svg" width="100%" alt="MD SHOHAN">
 </p>
 
 ---
