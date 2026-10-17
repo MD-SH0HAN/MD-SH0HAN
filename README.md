@@ -2,20 +2,18 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./Dark-Banner.gif"
+    srcset="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Dark%20Banner.gif"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./Light-Banner.gif"
+    srcset="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Light%20Banner.gif"
   />
   <img
-    src="./Light-Banner.gif"
+    src="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Light%20Banner.gif"
     alt="MD Shohan — Cloud and DevOps Engineer"
     width="100%"
   />
 </picture>
-
-
 
 <h1 align="center">MD SHOHAN</h1>
 
