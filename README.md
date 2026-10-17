@@ -4,9 +4,11 @@
        width="100%">
 </p>
 
-<h1 align="center">Hi, I'm MD SHOHAN 👋</h1>
+<h1 align="center">MD SHOHAN</h1>
 
-<h3 align="center">Computer Science & Engineering Student | Cloud & DevOps Engineering</h3>
+<h2 align="center">Computer Science & Engineering Student 🎓</h2>
+
+<h3 align="center">Cloud & DevOps Engineering 👨‍💻</h3>
 
 ---
 
