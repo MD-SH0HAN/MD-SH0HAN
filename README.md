@@ -116,6 +116,14 @@ DevOps, reliability engineering, and Platform Engineering.
 
 ---
 
+## 🚀 DevOps Engineering Architecture
+
+A visual overview of my DevOps ecosystem, covering cloud infrastructure, Kubernetes, CI/CD, observability, SRE, security, and platform engineering.
+
+<p align="center">
+  <img src="Engineering.png" alt="DevOps Engineering Architecture" width="100%">
+</p>
+
 
 <!-- GITHUB_STATS:START -->
 ## 📊 GitHub Statistics
