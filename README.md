@@ -4,9 +4,9 @@
   <img alt="MD Shohan — Computer Science and Engineering student exploring Cloud Computing and DevOps" src="./ID Banner Light Version.gif" width="100%">
 </picture>
 
-<h1 align="center">Hi, I'm MD Shohan 👋</h1>
+<h1 align="center">Hi, I'm MD SHOHAN 👋</h1>
 
-<h3 align="center">Computer Science & Engineering Student | Cloud & DevOps Enthusiast</h3>
+<h3 align="center">Computer Science & Engineering Student | Cloud & DevOps Engineering</h3>
 
 <p align="center">
   <a href="https://www.md-shohan.com">Portfolio</a> •
