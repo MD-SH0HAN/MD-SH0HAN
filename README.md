@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="assets/Header.svg" width="100%" alt="MD SHOHAN">
+  <img src="Header.svg" width="100%" alt="MD SHOHAN">
 </p>
 
 ---
