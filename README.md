@@ -9,7 +9,7 @@
   />
   <img
     src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
-    alt="MD SHOHAN — CLOUD & DEVOPS ENGINEER"
+    alt="MD SHOHAN — Cloud & DevOps"
     width="100%"
   />
 </picture>
@@ -17,27 +17,27 @@
 ---
 
 <p align="center">
-  <img src="Header.svg" width="100%" alt="MD SHOHAN">
+  <img src="Header.svg" width="100%" alt="MD SHOHAN" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm **MD Shohan**, a Computer Science & Engineering student at Bangladesh University with a strong interest in **Cloud Computing, DevOps, and Infrastructure Automation**.
+I'm **MD Shohan**, a Computer Science & Engineering student at **Bangladesh University** with a strong interest in **Cloud Computing, DevOps, and Infrastructure Automation**.
 
-I'm building my engineering foundation through hands-on experimentation, practical projects, and continuous learning. My goal is to understand how modern applications are built, deployed, secured, and operated reliably.
+I'm building my engineering foundation through hands-on practice, personal projects, and continuous learning. I want to understand how modern systems are provisioned, deployed, secured, and operated reliably—and to document my work so it can be reproduced and improved.
 
 - 🎓 Studying Computer Science & Engineering
-- ☁️ Exploring cloud infrastructure and automation
-- 🐧 Developing my Linux and command-line skills
-- 📦 Learning containerization and orchestration
-- ⚙️ Exploring CI/CD pipelines and Infrastructure as Code
-- 🎯 Working toward building reproducible, secure, and maintainable systems
+- ☁️ Learning cloud infrastructure and AWS fundamentals
+- 🐧 Strengthening Linux, Ubuntu, and command-line skills
+- 📦 Practicing containerization and orchestration
+- ⚙️ Exploring CI/CD and Infrastructure as Code
+- 🔐 Learning networking, secure access, and service configuration
 
-I believe in learning by building, documenting what I learn, and improving through experimentation.
+My approach is simple: **learn by building, document the process, and improve through practice.**
 
-## 🧭 Current Learning Roadmap
+## Learning Roadmap
 
 | Area | Current Focus |
 |---|---|
@@ -48,181 +48,169 @@ I believe in learning by building, documenting what I learn, and improving throu
 | Orchestration | Kubernetes, Helm, `kubectl`, and local Kubernetes environments |
 | CI/CD | GitHub Actions, automated testing, and deployment workflows |
 | Networking & Security | NGINX, SSH, TLS/HTTPS, and secure configuration |
+| Storage | MinIO and object-storage concepts |
 
-*This roadmap reflects my learning interests, not a claim of professional mastery in every technology.*
+*This roadmap describes my current learning areas; it is not a claim of professional mastery in every technology listed.*
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
-<p>
-  <strong>Operating Systems & Development</strong><br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=linux&logoColor=white" alt="Windows Subsystem for Linux">
-</p>
+### Operating Systems & Development
 
 <p>
-  <strong>Cloud & Infrastructure</strong><br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Amazon Web Services">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=linux&logoColor=white" alt="Windows Subsystem for Linux" />
 </p>
+
+### Cloud & Infrastructure
 
 <p>
-  <strong>Containers & Orchestration</strong><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm">
-  <img src="https://img.shields.io/badge/kind-4B3263?style=flat-square&logo=kubernetes&logoColor=white" alt="kind">
-  <img src="https://img.shields.io/badge/GHCR-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Container Registry">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
+
+### Containers & Orchestration
 
 <p>
-  <strong>Automation, Networking & Storage</strong><br>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX">
-  <img src="https://img.shields.io/badge/OpenSSH-2E8B57?style=flat-square&logo=openssh&logoColor=white" alt="OpenSSH">
-  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL">
-  <img src="https://img.shields.io/badge/TLS%2FHTTPS-005571?style=flat-square&logo=letsencrypt&logoColor=white" alt="TLS and HTTPS">
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/kind-4B3263?style=flat-square&logo=kubernetes&logoColor=white" alt="kind" />
+  <img src="https://img.shields.io/badge/GHCR-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Container Registry" />
 </p>
 
-## 🏗️ DevOps Engineering Architecture
+### CI/CD, Networking & Security
 
-This diagram represents the broader engineering ecosystem I'm exploring, including cloud infrastructure, automation, container orchestration, networking, monitoring, and security.
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/OpenSSH-2E8B57?style=flat-square&logo=openssh&logoColor=white" alt="OpenSSH" />
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL" />
+  <img src="https://img.shields.io/badge/TLS%2FHTTPS-005571?style=flat-square&logo=letsencrypt&logoColor=white" alt="TLS and HTTPS" />
+</p>
+
+### Storage
+
+<p>
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
+</p>
+
+## Cloud & DevOps Engineering Ecosystem
+
+The diagram below represents the broader ecosystem I'm exploring, including infrastructure, automation, containers, orchestration, networking, storage, and security.
 
 <p align="center">
-  <img src="./Engineering.png" alt="Cloud and DevOps engineering ecosystem architecture" width="100%">
+  <img src="./Engineering.png" alt="Cloud and DevOps engineering ecosystem architecture" width="100%" />
 </p>
 
-## 🚀 Projects & Practical Work
+## Projects & Practical Work
 
-I use hands-on projects to turn concepts into practical engineering experience. My focus is on understanding how systems work, documenting implementation decisions, and making projects reproducible.
+I use practical exercises and projects to turn concepts into working implementations. I aim to document the setup, explain important design choices, and include reproducible steps wherever possible.
 
-**Projects will be featured here as I publish and document them.**
+**Project write-ups will be added here as repositories are ready to share.**
 
 <!--
-Add a project when its repository is ready.
+Use this template when a project repository is ready to feature.
 
 ### Project Name
-A concise description of the problem, solution, and technologies used.
+A short description of the problem, solution, and outcome.
 
-- **Technologies:** List the tools actually used
-- **Highlights:** Explain the main implementation details
-- **Verification:** Describe tests or a working demonstration
+- **Technologies:** Tools actually used in the project
+- **Implementation:** Key design and configuration details
+- **Validation:** Tests, screenshots, or a working demonstration
 - **Repository:** Link to the project
 -->
 
-## 🎯 Current Focus
+## Current Priorities
 
-- Strengthening Linux fundamentals and system administration
-- Building containerized applications with Docker
-- Practicing Kubernetes deployment and service management
-- Learning to provision infrastructure with Terraform
-- Automating builds and tests with GitHub Actions
-- Developing projects with clear documentation and reproducible setup instructions
+- Build and document Linux system-administration workflows.
+- Containerize applications with Docker and Docker Compose.
+- Deploy workloads and services in Kubernetes learning environments.
+- Practice repeatable infrastructure provisioning with Terraform.
+- Automate build and test workflows with GitHub Actions.
+- Improve project quality through clear documentation and reproducible setup instructions.
 
-## 🤝 Connect With Me
+## Connect With Me
 
-I'm happy to connect with fellow learners, developers, and people interested in Cloud Computing, DevOps, and Infrastructure Engineering.
+I'm glad to connect with fellow learners, developers, and engineers interested in Cloud Computing, DevOps, and Infrastructure Engineering.
 
 <p align="left">
   <a href="https://www.md-shohan.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/MD-SH0HAN">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:mohammad.and.shohan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.facebook.com/mohammad.and.shohan">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="36" height="36" alt="Facebook">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="36" height="36" alt="Facebook" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/_md.shohan_/">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" height="36" alt="Instagram">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" height="36" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://www.threads.com/@_md.shohan_">
-    <img src="https://img.icons8.com/ios-filled/50/threads.png" width="36" height="36" alt="Threads">
+    <img src="https://img.icons8.com/ios-filled/50/threads.png" width="36" height="36" alt="Threads" />
   </a>
   &nbsp;
   <a href="https://www.twitch.tv/md_shohan">
-    <img src="https://img.icons8.com/color/48/twitch.png" width="36" height="36" alt="Twitch">
+    <img src="https://img.icons8.com/color/48/twitch.png" width="36" height="36" alt="Twitch" />
   </a>
   &nbsp;
   <a href="https://www.tumblr.com/md-shohan">
-    <img src="https://img.icons8.com/color/48/tumblr.png" width="36" height="36" alt="Tumblr">
+    <img src="https://img.icons8.com/color/48/tumblr.png" width="36" height="36" alt="Tumblr" />
   </a>
   &nbsp;
   <a href="https://www.reddit.com/user/MD-SH0HAN/">
-    <img src="https://img.icons8.com/color/48/reddit.png" width="36" height="36" alt="Reddit">
+    <img src="https://img.icons8.com/color/48/reddit.png" width="36" height="36" alt="Reddit" />
   </a>
 </p>
-## 🐍 Contribution Snake
+
+## GitHub Contributions
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake-dark.svg"
-    >
+    />
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg"
-    >
+    />
     <img
       src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg"
       alt="Animated GitHub contribution snake for MD-SH0HAN"
       width="100%"
-    >
+    />
   </picture>
 </p>
 
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/stats-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile/stats-light.svg"
-    >
-    <img
-      src="./profile/stats-light.svg"
-      alt="GitHub statistics for MD-SH0HAN"
-      height="180"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+    <img src="./profile/stats-light.svg" alt="GitHub statistics for MD-SH0HAN" height="180" />
   </picture>
-
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/top-langs-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile/top-langs-light.svg"
-    >
-    <img
-      src="./profile/top-langs-light.svg"
-      alt="Most-used programming languages"
-      height="180"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+    <img src="./profile/top-langs-light.svg" alt="Most-used programming languages" height="180" />
   </picture>
 </p>
-<!-- GITHUB_STATS:END -->
 
 <p align="center">
   <i>Learning with purpose. Building through practice. Improving continuously.</i>
