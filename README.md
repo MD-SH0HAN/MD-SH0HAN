@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="./Banner.gif"
-       alt="MD SHOHAN — Cloud & DevOps Engineer"
-       width="100%">
-</p>
-
 <h1 align="center">MD SHOHAN</h1>
 
 <h2 align="center">Computer Science & Engineering Student</h2>
