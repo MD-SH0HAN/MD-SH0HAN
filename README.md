@@ -8,12 +8,6 @@
 
 <h3 align="center">Computer Science & Engineering Student | Cloud & DevOps Engineering</h3>
 
-<p align="center">
-  <a href="https://www.md-shohan.com">Portfolio</a> •
-  <a href="https://github.com/MD-SH0HAN">GitHub</a> •
-  <a href="mailto:mohammad.and.shohan@gmail.com">Email</a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
