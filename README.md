@@ -1,4 +1,3 @@
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -15,11 +14,11 @@
   />
 </picture>
 
-<h1 align="center">MD SHOHAN</h1>
+---
 
-<h2 align="center">Computer Science & Engineering Student</h2>
-
-<h3 align="center">Cloud & DevOps Engineering | SRE & Platform Engineering</h3>
+<p align="center">
+  <img src="assets/shohan-github-header.svg" width="100%" alt="MD SHOHAN">
+</p>
 
 ---
 
