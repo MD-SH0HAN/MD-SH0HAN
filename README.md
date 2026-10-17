@@ -121,13 +121,22 @@ I'm happy to connect with fellow learners, developers, and people interested in 
 
 <p>
   <a href="https://www.md-shohan.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Visit my portfolio"
+    >
   </a>
   <a href="https://github.com/MD-SH0HAN">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub profile">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="My GitHub profile"
+    >
   </a>
   <a href="mailto:mohammad.and.shohan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email me"
+    >
   </a>
 </p>
 
@@ -139,8 +148,6 @@ I'm happy to connect with fellow learners, developers, and people interested in 
   <a href="https://www.tumblr.com/md-shohan">Tumblr</a> •
   <a href="https://www.reddit.com/user/MD-SH0HAN/">Reddit</a>
 </p>
-
----
 
 <p align="center">
   <i>Learning with purpose. Building through practice. Improving continuously.</i>
