@@ -149,6 +149,64 @@ I'm happy to connect with fellow learners, developers, and people interested in 
   <a href="https://www.reddit.com/user/MD-SH0HAN/">Reddit</a>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg"
+      alt="Animated GitHub contribution snake for MD-SH0HAN"
+      width="100%"
+    >
+  </picture>
+</p>
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/stats-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/stats-light.svg"
+    >
+    <img
+      src="./profile/stats-light.svg"
+      alt="GitHub statistics for MD-SH0HAN"
+      height="180"
+    >
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/top-langs-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/top-langs-light.svg"
+    >
+    <img
+      src="./profile/top-langs-light.svg"
+      alt="Most-used programming languages"
+      height="180"
+    >
+  </picture>
+</p>
+<!-- GITHUB_STATS:END -->
+
 <p align="center">
   <i>Learning with purpose. Building through practice. Improving continuously.</i>
 </p>
