@@ -67,12 +67,13 @@ I'm learning how to build, deploy, automate, and manage reliable infrastructure 
 ![OpenSSH](https://img.shields.io/badge/OpenSSH-2E8B57?style=for-the-badge&logo=openssh&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
-## 🏗️ My Engineering Roadmap
+## 🏗️ DevOps Engineering Architecture
 
-Exploring the journey from Linux and Cloud fundamentals to
-DevOps, reliability engineering, and Platform Engineering.
+A visual overview of my DevOps ecosystem, covering cloud infrastructure, Kubernetes, CI/CD, observability, SRE, security, and platform engineering.
 
-[Explore my architecture diagrams and learning roadmap](./docs/platform-engineering-architecture.md)
+<p align="center">
+  <img src="Engineering.png" alt="DevOps Engineering Architecture" width="100%">
+</p>
 
 ## 🤝 Connect With Me
 
@@ -115,16 +116,6 @@ DevOps, reliability engineering, and Platform Engineering.
 - Building hands-on Cloud and DevOps projects
 
 ---
-
-## 🚀 DevOps Engineering Architecture
-
-A visual overview of my DevOps ecosystem, covering cloud infrastructure, Kubernetes, CI/CD, observability, SRE, security, and platform engineering.
-
-<p align="center">
-  <img src="Engineering.png" alt="DevOps Engineering Architecture" width="100%">
-</p>
-
-
 <!-- GITHUB_STATS:START -->
 ## 📊 GitHub Statistics
 
