@@ -1,8 +1,20 @@
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Dark Banner.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Light Banner.gif">
-  <img alt="MD SHOHAN — Cloud and DevOps, learning Linux, Kubernetes, and Terraform" src="./Light Banner" width="100%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./Dark-Banner.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./Light-Banner.gif"
+  />
+  <img
+    src="./Light-Banner.gif"
+    alt="MD Shohan — Cloud and DevOps Engineer"
+    width="100%"
+  />
 </picture>
+
 
 
 <h1 align="center">MD SHOHAN</h1>
