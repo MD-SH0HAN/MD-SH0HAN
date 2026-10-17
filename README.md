@@ -1,18 +1,7 @@
-
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Dark%20Banner.gif"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Light%20Banner.gif"
-  />
-  <img
-    alt="MD Shohan | Cloud & DevOps Engineer"
-    src="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Light%20Banner.gif"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="./Dark Banner.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Light Banner.gif">
+  <img alt="MD SHOHAN — Cloud and DevOps, learning Linux, Kubernetes, and Terraform" src="./Light Banner" width="100%">
 </picture>
 
 
