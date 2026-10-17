@@ -6,7 +6,7 @@
 
 <h1 align="center">MD SHOHAN</h1>
 
-<h4 align="center">Computer Science & Engineering Student 🎓</h4>
+<h3 align="center">Computer Science & Engineering Student 🎓</h3>
 
 <h2 align="center">Cloud & DevOps Engineering 👨‍💻</h2>
 
