@@ -2,15 +2,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Dark%20Banner.gif"
+    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Dark%20Banner.gif"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Light%20Banner.gif"
+    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
   />
   <img
-    src="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Light%20Banner.gif"
-    alt="MD Shohan — Cloud and DevOps Engineer"
+    src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
+    alt="MD SHOHAN — CLOUD & DEVOPS ENGINEER"
     width="100%"
   />
 </picture>
