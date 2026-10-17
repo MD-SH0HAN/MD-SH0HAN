@@ -1,3 +1,20 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Dark%20Banner.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Light%20Banner.gif"
+  />
+  <img
+    alt="MD Shohan | Cloud & DevOps Engineer"
+    src="https://raw.githubusercontent.com/MD-SHOHAN/MD-SHOHAN/main/Light%20Banner.gif"
+    width="100%"
+  />
+</picture>
+
+
 <h1 align="center">MD SHOHAN</h1>
 
 <h2 align="center">Computer Science & Engineering Student</h2>
