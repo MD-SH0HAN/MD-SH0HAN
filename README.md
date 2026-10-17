@@ -6,9 +6,9 @@
 
 <h1 align="center">MD SHOHAN</h1>
 
-<h3 align="center">Computer Science & Engineering Student 🎓</h3>
+<h2 align="center">Computer Science & Engineering Student</h2>
 
-<h2 align="center">Cloud & DevOps Engineering 👨‍💻</h2>
+<h3 align="center">Cloud & DevOps Engineering | SRE & Platform Engineering</h3>
 
 ---
 
