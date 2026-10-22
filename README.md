@@ -3,24 +3,6 @@
   <img src="Dark%20Header.svg" width="100%" alt="MD SHOHAN" />
 </p>
 
----
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Dark%20Banner.gif"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
-    alt="MD SHOHAN — Cloud & DevOps"
-    width="100%"
-  />
-</picture>
-
 ## About Me
 
 I'm **MD Shohan**, a Computer Science & Engineering student at **Bangladesh University** with a strong interest in **Cloud Computing, DevOps, and Infrastructure Automation**.
@@ -98,6 +80,25 @@ My approach is simple: **learn by building, document the process, and improve th
 <p>
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
 </p>
+
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Dark%20Banner.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
+    alt="MD SHOHAN — Cloud & DevOps"
+    width="100%"
+  />
+</picture>
+
 
 ## Cloud & DevOps Engineering Ecosystem
 
