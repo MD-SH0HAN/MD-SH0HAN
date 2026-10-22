@@ -119,6 +119,22 @@ A short description of the problem, solution, and outcome.
 
 I'm glad to connect with fellow learners, developers, and engineers interested in Cloud Computing, DevOps, and Infrastructure Engineering.
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Dark%20Banner.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
+    alt="MD SHOHAN — Cloud & DevOps"
+    width="100%"
+  />
+</picture>
+
 <p align="left">
   <a href="https://www.md-shohan.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
@@ -157,21 +173,6 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
   </a>
 </p>
 ---
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Dark%20Banner.gif"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
-    alt="MD SHOHAN — Cloud & DevOps"
-    width="100%"
-  />
-</picture>
 
 ## GitHub Contributions
 
