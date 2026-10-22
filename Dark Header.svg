@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="svg-title svg-desc">
+  <title id="svg-title">09 — Focus Reveal (Monochrome)</title>
+  <desc id="svg-desc">Animated version of the original MD SHOHAN header. The original text and black, white, and neutral-gray palette are preserved. No glow, blur, or colored accents.</desc>
+  <style><![CDATA[
+    text { font-family: Nunito, Arial, sans-serif; }
+    @media (prefers-reduced-motion: reduce) { .animated { animation: none !important; } }
+    .sharpName { animation: sharpen 4.8s ease-in-out infinite; }
+    .sharpSub { animation: sharpenSub 4.8s ease-in-out infinite; }
+    .sharpRole { animation: sharpenRole 4.8s ease-in-out infinite; }
+    @keyframes sharpen {
+      0%, 100% { opacity: .65; letter-spacing: 3px; }
+      35%, 70% { opacity: 1; letter-spacing: 0; }
+    }
+    @keyframes sharpenSub {
+      0%, 15% { opacity: 0; letter-spacing: 2px; }
+      38%, 70% { opacity: 1; letter-spacing: 0; }
+      100% { opacity: 0; }
+    }
+    @keyframes sharpenRole {
+      0%, 25% { opacity: 0; letter-spacing: 1.8px; }
+      48%, 70% { opacity: 1; letter-spacing: 0; }
+      100% { opacity: 0; }
+    }
+  ]]></style>
+  <rect width="1200" height="260" fill="#0D1117"/>
+  <text class="sharpName animated" x="600" y="78" text-anchor="middle" fill="#FFFFFF" font-size="46" font-weight="800">MD SHOHAN</text>
+  <text class="sharpSub animated" x="600" y="139" text-anchor="middle" fill="#FFFFFF" font-size="28" font-weight="700">Computer Science &amp; Engineering Student</text>
+  <text class="sharpRole animated" x="600" y="190" text-anchor="middle" fill="#FFFFFF" font-size="23" font-weight="600">Cloud &amp; DevOps Engineering | SRE &amp; Platform Engineering</text>
+</svg>
