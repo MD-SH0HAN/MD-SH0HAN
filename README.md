@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="Dark%20Header.svg" width="100%" alt="MD SHOHAN" />
+</p>
+
+---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -13,14 +20,6 @@
     width="100%"
   />
 </picture>
-
----
-
-<p align="center">
-  <img src="Dark%20Header.svg" width="100%" alt="MD SHOHAN" />
-</p>
-
----
 
 ## About Me
 
