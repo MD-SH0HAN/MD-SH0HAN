@@ -156,7 +156,7 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
     <img src="https://img.icons8.com/color/48/reddit.png" width="36" height="36" alt="Reddit" />
   </a>
 </p>
-
+---
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -172,14 +172,6 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
     width="100%"
   />
 </picture>
-
-## Cloud & DevOps Engineering Ecosystem
-
-The diagram below provides an overview of the areas I'm exploring across infrastructure, automation, containers, orchestration, networking, storage, and security.
-
-<p align="center">
-  <img src="./Engineering.png" alt="Cloud and DevOps engineering ecosystem architecture" width="100%" />
-</p>
 ---
 ## GitHub Contributions
 
