@@ -1,4 +1,3 @@
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Dark%20Header.svg" />
@@ -9,35 +8,37 @@
 
 ## About Me
 
-I'm **MD Shohan**, a Computer Science & Engineering student at **Bangladesh University** with a strong interest in **Cloud Computing, DevOps, and Infrastructure Automation**.
+I'm **MD Shohan**, a **Computer Science & Engineering student at Bangladesh University** focused on building practical skills in **Cloud Computing, DevOps, and Infrastructure Automation**.
 
-I'm building my engineering foundation through hands-on practice, personal projects, and continuous learning. I want to understand how modern systems are provisioned, deployed, secured, and operated reliably—and to document my work so it can be reproduced and improved.
+I'm developing my engineering foundation through hands-on labs, small projects, and technical documentation. My current focus is learning how to provision infrastructure, automate deployments, secure services, and operate systems reliably—and then document the process so it can be reproduced and improved.
 
 - 🎓 Studying Computer Science & Engineering
-- ☁️ Learning cloud infrastructure and AWS fundamentals
-- 🐧 Strengthening Linux, Ubuntu, and command-line skills
-- 📦 Practicing containerization and orchestration
+- ☁️ Building foundational knowledge of cloud infrastructure and AWS
+- 🐧 Practicing Linux, Ubuntu, shell workflows, and system administration
+- 📦 Learning containerization and orchestration through practical exercises
 - ⚙️ Exploring CI/CD and Infrastructure as Code
-- 🔐 Learning networking, secure access, and service configuration
+- 🔐 Developing foundational knowledge of networking, secure access, and service configuration
 
 My approach is simple: **learn by building, document the process, and improve through practice.**
 
 ## Learning Roadmap
 
-| Area | Current Focus |
+| Learning Area | Current Learning Focus |
 |---|---|
 | Linux & Systems | Linux fundamentals, Ubuntu, shell workflows, and system administration |
-| Cloud Computing | AWS fundamentals, cloud services, and infrastructure concepts |
-| Infrastructure as Code | Terraform and Ansible |
+| Cloud Computing | AWS fundamentals, cloud services, and core infrastructure concepts |
+| Infrastructure as Code | Learning Terraform and Ansible for repeatable provisioning and configuration |
 | Containers | Docker, Docker Compose, and container image management |
 | Orchestration | Kubernetes, Helm, `kubectl`, and local Kubernetes environments |
 | CI/CD | GitHub Actions, automated testing, and deployment workflows |
-| Networking & Security | NGINX, SSH, TLS/HTTPS, and secure configuration |
+| Networking & Security | NGINX, SSH, TLS/HTTPS, and secure service configuration |
 | Storage | MinIO and object-storage concepts |
 
-*This roadmap describes my current learning areas; it is not a claim of professional mastery in every technology listed.*
+*This roadmap reflects my current learning areas, not a claim of professional mastery across every technology listed.*
 
 ## Technologies & Tools
+
+*These badges represent tools I'm learning or practicing; they should not be read as a claim of professional proficiency in every tool.*
 
 ### Operating Systems & Development
 
@@ -103,10 +104,9 @@ My approach is simple: **learn by building, document the process, and improve th
   />
 </picture>
 
-
 ## Cloud & DevOps Engineering Ecosystem
 
-The diagram below represents the broader ecosystem I'm exploring, including infrastructure, automation, containers, orchestration, networking, storage, and security.
+The diagram below provides an overview of the areas I'm exploring across infrastructure, automation, containers, orchestration, networking, storage, and security.
 
 <p align="center">
   <img src="./Engineering.png" alt="Cloud and DevOps engineering ecosystem architecture" width="100%" />
@@ -114,9 +114,9 @@ The diagram below represents the broader ecosystem I'm exploring, including infr
 
 ## Projects & Practical Work
 
-I use practical exercises and projects to turn concepts into working implementations. I aim to document the setup, explain important design choices, and include reproducible steps wherever possible.
+I use hands-on labs and small projects to turn concepts into working implementations. I aim to publish repositories with clear setup instructions, key design decisions, validation steps, and notes that help others reproduce the work.
 
-**Project write-ups will be added here as repositories are ready to share.**
+**Featured projects will be added here as they are built, tested, and documented.**
 
 <!--
 Use this template when a project repository is ready to feature.
@@ -130,14 +130,13 @@ A short description of the problem, solution, and outcome.
 - **Repository:** Link to the project
 -->
 
-## Current Priorities
+## Next Milestones
 
-- Build and document Linux system-administration workflows.
-- Containerize applications with Docker and Docker Compose.
-- Deploy workloads and services in Kubernetes learning environments.
-- Practice repeatable infrastructure provisioning with Terraform.
-- Automate build and test workflows with GitHub Actions.
-- Improve project quality through clear documentation and reproducible setup instructions.
+- Publish a Linux administration lab with reproducible setup and troubleshooting notes.
+- Containerize a sample application with Docker Compose and document how to run it.
+- Build a GitHub Actions workflow that automates relevant checks and tests.
+- Practice repeatable infrastructure provisioning with Terraform, including safe cleanup steps.
+- Deploy a sample workload to a local Kubernetes environment and document how it is validated.
 
 ## Connect With Me
 
