@@ -1,0 +1,43 @@
+name: Portfolio Website Health
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: portfolio-website-health
+  cancel-in-progress: true
+
+jobs:
+  check-website:
+    name: Check HTTPS availability
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions: {}
+    env:
+      SITE_URL: https://www.md-shohan.com
+    steps:
+      - name: Check website response
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ ! "$SITE_URL" =~ ^https:// ]]; then
+            echo 'SITE_URL must use HTTPS.' >&2
+            exit 1
+          fi
+          curl \
+            --silent \
+            --show-error \
+            --fail \
+            --location \
+            --retry 3 \
+            --retry-all-errors \
+            --retry-delay 5 \
+            --connect-timeout 10 \
+            --max-time 30 \
+            --output /dev/null \
+            --write-out 'Final HTTP status: %{http_code}\n' \
+            "$SITE_URL"

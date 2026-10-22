@@ -1,0 +1,71 @@
+name: README Quality
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - '**/*.md'
+      - .markdownlint-cli2.jsonc
+      - .github/workflows/readme-quality.yml
+  pull_request:
+    branches: [main]
+    paths:
+      - README.md
+      - '**/*.md'
+      - .markdownlint-cli2.jsonc
+      - .github/workflows/readme-quality.yml
+  schedule:
+    - cron: '17 4 * * 1'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: readme-quality-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  markdown-lint:
+    name: Markdown lint
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@21c1be1b93ad9ed58fa840aacc3f279cde2a72ff # v24.2.0
+        with:
+          globs: |
+            README.md
+            **/*.md
+
+  link-check:
+    name: Check README links
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Check links in README
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
+        with:
+          args: >-
+            --no-progress
+            --max-retries 2
+            --timeout 20
+            --exclude-mail
+            --accept 200,206,301,302,303,307,308,429
+            README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

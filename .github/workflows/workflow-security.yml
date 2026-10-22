@@ -1,0 +1,70 @@
+name: Workflow Security
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/**
+      - .github/zizmor.yml
+      - .github/workflows/workflow-security.yml
+  pull_request:
+    branches: [main]
+    paths:
+      - .github/workflows/**
+      - .github/zizmor.yml
+  schedule:
+    - cron: '41 3 * * 3'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: workflow-security-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  actionlint:
+    name: Validate workflow syntax
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Install and verify actionlint
+        shell: bash
+        run: |
+          set -euo pipefail
+          version='1.7.12'
+          archive="actionlint_${version}_linux_amd64.tar.gz"
+          expected_sha256='5b44c3bc2255115c9b69e30efc0fecdf498fdb63c5d58e17084fd5f16324c644'
+          curl --fail --silent --show-error --location \
+            "https://github.com/rhysd/actionlint/releases/download/v${version}/${archive}" \
+            --output "/tmp/${archive}"
+          printf '%s  %s\n' "$expected_sha256" "/tmp/${archive}" | sha256sum --check --status
+          tar --extract --gzip --file "/tmp/${archive}" --directory /tmp actionlint
+          /tmp/actionlint -color
+
+  zizmor:
+    name: Audit workflow security
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Audit GitHub Actions workflows
+        uses: zizmorcore/zizmor-action@3dc1ecc9bcb9e94e9b2c709687979e1298497054 # v0.6.2
+        with:
+          inputs: .github/workflows
+          version: v1.32.0
+          advanced-security: false
+          annotations: true

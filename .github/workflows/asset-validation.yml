@@ -1,0 +1,50 @@
+name: Profile Asset Validation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - '**/*.png'
+      - '**/*.jpg'
+      - '**/*.jpeg'
+      - '**/*.webp'
+      - '**/*.gif'
+      - '**/*.svg'
+      - scripts/validate_profile_assets.py
+      - .github/workflows/asset-validation.yml
+  pull_request:
+    branches: [main]
+    paths:
+      - README.md
+      - '**/*.png'
+      - '**/*.jpg'
+      - '**/*.jpeg'
+      - '**/*.webp'
+      - '**/*.gif'
+      - '**/*.svg'
+      - scripts/validate_profile_assets.py
+      - .github/workflows/asset-validation.yml
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: asset-validation-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate-assets:
+    name: Validate local images and SVGs
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Validate README asset references and image sizes
+        run: python3 scripts/validate_profile_assets.py
