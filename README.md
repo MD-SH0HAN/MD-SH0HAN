@@ -1,6 +1,10 @@
 
 <p align="center">
-  <img src="Dark%20Header.svg" width="100%" alt="MD SHOHAN" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Dark%20Header.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="Light%20Header.svg" />
+    <img src="Light%20Header.svg" width="100%" alt="MD SHOHAN" />
+  </picture>
 </p>
 
 ## About Me
