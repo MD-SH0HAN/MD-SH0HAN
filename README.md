@@ -172,7 +172,7 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
     width="100%"
   />
 </picture>
----
+
 ## GitHub Contributions
 
 <p align="center">
