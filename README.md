@@ -157,7 +157,6 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
   </a>
 </p>
 
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -181,10 +180,7 @@ The diagram below provides an overview of the areas I'm exploring across infrast
 <p align="center">
   <img src="./Engineering.png" alt="Cloud and DevOps engineering ecosystem architecture" width="100%" />
 </p>
-
-
 ---
-
 ## GitHub Contributions
 
 <p align="center">
