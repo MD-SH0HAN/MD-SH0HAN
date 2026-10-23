@@ -115,6 +115,7 @@ A short description of the problem, solution, and outcome.
 - Practice repeatable infrastructure provisioning with Terraform, including safe cleanup steps.
 - Deploy a sample workload to a local Kubernetes environment and document how it is validated.
 
+
 ## Connect With Me
 
 I'm glad to connect with fellow learners, developers, and engineers interested in Cloud Computing, DevOps, and Infrastructure Engineering.
@@ -142,12 +143,14 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
       alt="Visit Portfolio"
     />
   </a>
+  &nbsp;
   <a href="https://github.com/MD-SH0HAN">
     <img
       src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="Follow on GitHub"
     />
   </a>
+  &nbsp;
   <a href="mailto:mohammad.and.shohan@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
@@ -165,7 +168,7 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
       alt="Facebook"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_md.shohan_/" title="Instagram">
     <img
       src="https://cdn.simpleicons.org/instagram/E4405F"
@@ -174,9 +177,43 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
       alt="Instagram"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.threads.com/@_md.shohan_" title="Threads">
     <img
+      src="https://cdn.simpleicons.org/threads/8B8B8B"
+      width="40"
+      height="40"
+      alt="Threads"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitch.tv/md_shohan" title="Twitch">
+    <img
+      src="https://cdn.simpleicons.org/twitch/9146FF"
+      width="40"
+      height="40"
+      alt="Twitch"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tumblr.com/md-shohan" title="Tumblr">
+    <img
+      src="https://cdn.simpleicons.org/tumblr/36465D"
+      width="40"
+      height="40"
+      alt="Tumblr"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/MD-SH0HAN/" title="Reddit">
+    <img
+      src="https://cdn.simpleicons.org/reddit/FF4500"
+      width="40"
+      height="40"
+      alt="Reddit"
+    />
+  </a>
+</p>
 
 ## GitHub Contributions
 
