@@ -135,44 +135,48 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
   />
 </picture>
 
-<p align="left">
+<p align="center">
   <a href="https://www.md-shohan.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Visit Portfolio"
+    />
   </a>
   <a href="https://github.com/MD-SH0HAN">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Follow on GitHub"
+    />
   </a>
   <a href="mailto:mohammad.and.shohan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Contact via Email"
+    />
   </a>
 </p>
 
-<p align="left">
-  <a href="https://www.facebook.com/mohammad.and.shohan">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="36" height="36" alt="Facebook" />
+<p align="center">
+  <a href="https://www.facebook.com/mohammad.and.shohan" title="Facebook">
+    <img
+      src="https://cdn.simpleicons.org/facebook/0866FF"
+      width="40"
+      height="40"
+      alt="Facebook"
+    />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/_md.shohan_/">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" height="36" alt="Instagram" />
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_md.shohan_/" title="Instagram">
+    <img
+      src="https://cdn.simpleicons.org/instagram/E4405F"
+      width="40"
+      height="40"
+      alt="Instagram"
+    />
   </a>
-  &nbsp;
-  <a href="https://www.threads.com/@_md.shohan_">
-    <img src="https://img.icons8.com/ios-filled/50/threads.png" width="36" height="36" alt="Threads" />
-  </a>
-  &nbsp;
-  <a href="https://www.twitch.tv/md_shohan">
-    <img src="https://img.icons8.com/color/48/twitch.png" width="36" height="36" alt="Twitch" />
-  </a>
-  &nbsp;
-  <a href="https://www.tumblr.com/md-shohan">
-    <img src="https://img.icons8.com/color/48/tumblr.png" width="36" height="36" alt="Tumblr" />
-  </a>
-  &nbsp;
-  <a href="https://www.reddit.com/user/MD-SH0HAN/">
-    <img src="https://img.icons8.com/color/48/reddit.png" width="36" height="36" alt="Reddit" />
-  </a>
-</p>
----
+  &nbsp;&nbsp;
+  <a href="https://www.threads.com/@_md.shohan_" title="Threads">
+    <img
 
 ## GitHub Contributions
 
