@@ -238,6 +238,15 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
       alt="GitLab"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/1221600292915773468" title="Discord">
+    <img
+      src="https://cdn.simpleicons.org/discord/5865F2"
+      width="40"
+      height="40"
+      alt="Discord"
+    />
+  </a>
 </p>
 
 ## GitHub Contributions
