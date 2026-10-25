@@ -151,6 +151,13 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
     />
   </a>
   &nbsp;
+  <a href="https://gitlab.com/MD-SHOHAN">
+    <img
+      src="https://img.shields.io/badge/GitLab-Visit-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="Visit GitLab"
+    />
+  </a>
+  &nbsp;
   <a href="mailto:mohammad.and.shohan@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
@@ -211,6 +218,24 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
       width="40"
       height="40"
       alt="Reddit"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://vercel.com/md-shohan" title="Vercel">
+    <img
+      src="https://cdn.simpleicons.org/vercel/000000"
+      width="40"
+      height="40"
+      alt="Vercel"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gitlab.com/MD-SHOHAN" title="GitLab">
+    <img
+      src="https://cdn.simpleicons.org/gitlab/FC6D26"
+      width="40"
+      height="40"
+      alt="GitLab"
     />
   </a>
 </p>
