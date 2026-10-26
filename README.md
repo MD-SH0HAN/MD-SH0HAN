@@ -205,8 +205,6 @@ These are evaluation goals for my learning projects—not results or metrics I c
 
 ## Connect With Me
 
-I'm happy to connect with people working on platform engineering, cloud-native systems, developer experience, automation, and open-source tooling.
-
 <p align="center">
   <a href="https://www.md-shohan.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
   &nbsp;
