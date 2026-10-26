@@ -1,58 +1,97 @@
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Dark%20Header.svg" />
     <source media="(prefers-color-scheme: light)" srcset="Light%20Header.svg" />
-    <img src="Light%20Header.svg" width="100%" alt="MD SHOHAN" />
+    <img src="Light%20Header.svg" width="100%" alt="MD Shohan" />
   </picture>
 </p>
 
+<p align="center">
+  <strong>PLATFORM ENGINEERING · INTERNAL DEVELOPER PLATFORMS · CLOUD-NATIVE AUTOMATION</strong>
+  <br />
+  <em>Building reliable, reusable, developer-friendly engineering workflows—one practical lab at a time.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.md-shohan.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/MD-SH0HAN"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://gitlab.com/MD-SHOHAN"><img src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab profile" /></a>
+  <a href="mailto:mohammad.and.shohan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#my-platform-engineering-direction">Platform Engineering</a> ·
+  <a href="#technology-toolkit">Toolkit</a> ·
+  <a href="#learning-roadmap">Roadmap</a> ·
+  <a href="#planned-labs--projects">Labs</a> ·
+  <a href="#learning-resources">Resources</a>
+</p>
+
+---
+
 ## About Me
 
-I'm **MD Shohan**, a **Computer Science & Engineering student at Bangladesh University** focused on building practical skills in **Cloud Computing, DevOps, and Infrastructure Automation**.
+I'm **MD Shohan**, a **Computer Science & Engineering student at Bangladesh University** building a foundation in **Platform Engineering** through cloud-native infrastructure, automation, and hands-on technical labs.
 
-I'm developing my engineering foundation through hands-on labs, small projects, and technical documentation. My current focus is learning how to provision infrastructure, automate deployments, secure services, and operate systems reliably—and then document the process so it can be reproduced and improved.
+I'm interested in making software delivery simpler and more reliable by turning repeatable engineering tasks into **documented, automated, secure, and self-service workflows**. My current foundation includes Linux, AWS fundamentals, Infrastructure as Code, containers, Kubernetes, and CI/CD. I'm growing these skills toward internal developer platforms and developer-focused engineering experiences.
 
-- 🎓 Studying Computer Science & Engineering
-- ☁️ Building foundational knowledge of cloud infrastructure and AWS
-- 🐧 Practicing Linux, Ubuntu, shell workflows, and system administration
-- 📦 Learning containerization and orchestration through practical exercises
-- ⚙️ Exploring CI/CD and Infrastructure as Code
-- 🔐 Developing foundational knowledge of networking, secure access, and service configuration
+- 🎓 Computer Science & Engineering student
+- 🧱 Learning to build repeatable infrastructure and deployment workflows
+- ☸️ Practicing container and Kubernetes fundamentals
+- ⚙️ Exploring automation, platform interfaces, and developer self-service
+- 📚 Documenting labs with setup steps, validation, troubleshooting, and cleanup instructions
 
-My approach is simple: **learn by building, document the process, and improve through practice.**
+> **My approach:** understand the problem, build a reproducible solution, validate it, document it, and improve it from feedback.
 
-## Learning Roadmap
+## My Platform Engineering Direction
 
-| Learning Area | Current Learning Focus |
+Platform Engineering is more than a collection of tools. It combines **people, processes, policies, and technology** to provide software teams with a reliable internal platform. The platform is treated as a product: developers are its users, their workflows shape its design, and feedback helps guide improvements.
+
+My goal is to learn how to connect infrastructure, delivery automation, secure defaults, documentation, and operational visibility into **golden paths** that help developers build, test, deploy, and operate services with less avoidable complexity. An **internal developer platform (IDP)** is the underlying set of capabilities and workflows; a developer portal such as Backstage can provide a useful interface to those capabilities, but the portal alone is not the whole platform.
+
+### Principles I Want to Build Around
+
+| Principle | What it means in practice |
 |---|---|
-| Linux & Systems | Linux fundamentals, Ubuntu, shell workflows, and system administration |
-| Cloud Computing | AWS fundamentals, cloud services, and core infrastructure concepts |
-| Infrastructure as Code | Learning Terraform and Ansible for repeatable provisioning and configuration |
-| Containers | Docker, Docker Compose, and container image management |
-| Orchestration | Kubernetes, Helm, `kubectl`, and local Kubernetes environments |
-| CI/CD | GitHub Actions, automated testing, and deployment workflows |
-| Networking & Security | NGINX, SSH, TLS/HTTPS, and secure service configuration |
-| Storage | MinIO and object-storage concepts |
+| **Platform as a Product** | Understand developer needs, collect feedback, improve the experience, and prioritize useful capabilities. |
+| **Self-Service by Default** | Let developers complete common tasks without waiting for manual platform-team intervention. |
+| **Golden Paths, Not Golden Cages** | Provide a well-supported recommended route while allowing documented, controlled exceptions when needed. |
+| **Secure and Governed Defaults** | Build in least-privilege access, safe configuration, policy checks, and responsible resource usage. |
+| **Automation with Clear Feedback** | Make workflows repeatable and show meaningful status, logs, errors, and next steps. |
+| **Measure Outcomes** | Evaluate usability, adoption, delivery flow, reliability, and developer feedback—not just the number of tools deployed. |
 
-*This roadmap reflects my current learning areas, not a claim of professional mastery across every technology listed.*
+### Platform Capability Map
 
-## Technologies & Tools
+This map describes the areas I'm learning toward. It is a learning direction, **not a claim that I have already implemented a production internal developer platform**.
 
-*These badges represent tools I'm learning or practicing; they should not be read as a claim of professional proficiency in every tool.*
+| Platform Area | Key Topics | Current Direction |
+|---|---|---|
+| **Infrastructure Foundations** | Linux, networking, cloud resources, Infrastructure as Code | Build on AWS fundamentals, Terraform, and Ansible. |
+| **Workload Platform** | Containers, Kubernetes, Helm, registries, workload configuration | Practice with Docker, kind, Kubernetes, Helm, and GHCR. |
+| **Golden Paths & CI/CD** | Reusable pipelines, app templates, build/test/release workflows | Use GitHub Actions as a foundation for repeatable delivery. |
+| **Internal Developer Portal** | Service catalog, software templates, documentation, ownership | Learn the concepts and explore [Backstage](https://backstage.io/docs/). |
+| **GitOps & Release Management** | Declarative delivery, reconciliation, rollbacks, environment promotion | Explore GitOps workflows and tools such as [Argo CD](https://argo-cd.readthedocs.io/) or [Flux](https://fluxcd.io/docs/). |
+| **Security & Governance** | Identity and access, secrets, policy as code, image and dependency checks | Strengthen secure configuration and learn policy and supply-chain controls. |
+| **Observability & Reliability** | Logs, metrics, traces, alerts, SLIs/SLOs, incident learning | Explore [OpenTelemetry](https://opentelemetry.io/docs/), [Prometheus](https://prometheus.io/docs/), and [Grafana](https://grafana.com/docs/). |
+| **Developer Experience** | Discoverability, onboarding, task success, documentation, feedback | Learn to reduce friction and evaluate the platform from a developer's perspective. |
+| **Cost & Resource Governance** | Ownership, tagging, budgets, capacity, efficient defaults | Consider cost and resource visibility as part of platform design. |
 
-### Operating Systems & Development
+## Technology Toolkit
+
+The badges below reflect tools already listed in my learning and practice areas. **They do not imply equal proficiency or production experience with every tool.** Additional platform-engineering technologies are listed in the roadmap as topics to explore.
+
+### Systems & Collaboration
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=linux&logoColor=white" alt="Windows Subsystem for Linux" />
 </p>
 
-### Cloud & Infrastructure
+### Cloud & Infrastructure as Code
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Amazon Web Services" />
@@ -60,7 +99,7 @@ My approach is simple: **learn by building, document the process, and improve th
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
 
-### Containers & Orchestration
+### Containers & Kubernetes
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -71,7 +110,7 @@ My approach is simple: **learn by building, document the process, and improve th
   <img src="https://img.shields.io/badge/GHCR-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Container Registry" />
 </p>
 
-### CI/CD, Networking & Security
+### Delivery, Networking & Service Configuration
 
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -81,210 +120,98 @@ My approach is simple: **learn by building, document the process, and improve th
   <img src="https://img.shields.io/badge/TLS%2FHTTPS-005571?style=flat-square&logo=letsencrypt&logoColor=white" alt="TLS and HTTPS" />
 </p>
 
-### Storage
+## Learning Roadmap
 
-<p>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
-</p>
+My roadmap moves from reliable foundations toward a small, useful developer platform rather than trying to adopt every tool at once.
 
----
+1. **Strengthen the foundations** — Linux, Git, networking, DNS, TLS, containers, cloud fundamentals, and repeatable infrastructure with Terraform and Ansible.
+2. **Standardize software delivery** — build CI workflows for validation, testing, image creation, artifact publishing, and deployment checks.
+3. **Develop Kubernetes operating skills** — deployments, services, ingress, configuration, secrets, resource requests and limits, RBAC, health checks, and rollbacks.
+4. **Create a first golden path** — a starter-service workflow with documented defaults, reusable CI, container packaging, a deployment route, and troubleshooting guidance.
+5. **Explore the developer platform layer** — Backstage concepts, service catalogs, software templates, documentation-as-code, and self-service interfaces.
+6. **Add platform guardrails and visibility** — policy as code, supply-chain checks, GitOps, logs/metrics/traces, alerting, and basic SLO thinking.
+7. **Improve from evidence** — use developer feedback, onboarding friction, task success, adoption, delivery performance, reliability, and cost signals to decide what to improve next.
 
-## Projects & Practical Work
+## Planned Labs & Projects
 
-I use hands-on labs and small projects to turn concepts into working implementations. I aim to publish repositories with clear setup instructions, key design decisions, validation steps, and notes that help others reproduce the work.
+These are **planned learning projects**, not completed-project claims. I plan to publish each repository with setup instructions, architecture notes, validation steps, troubleshooting, and cleanup guidance.
 
-**Featured projects will be added here as they are built, tested, and documented.**
+### 1. Golden-Path Service Starter
 
-<!--
-Use this template when a project repository is ready to feature.
+A small application workflow demonstrating how a developer could move from a repository to a validated container image and a repeatable deployment.
 
-### Project Name
-A short description of the problem, solution, and outcome.
+- **Planned building blocks:** Docker, GitHub Actions, GHCR, Helm, and a local Kubernetes cluster with kind.
+- **Platform concepts:** reusable workflow, sensible defaults, documented configuration, validation, and clear failure feedback.
+- **Success criteria:** another person can follow the instructions and reproduce the workflow.
 
-- **Technologies:** Tools actually used in the project
-- **Implementation:** Key design and configuration details
-- **Validation:** Tests, screenshots, or a working demonstration
-- **Repository:** Link to the project
--->
+### 2. Reproducible Infrastructure Baseline
 
-## Next Milestones
+A small, documented infrastructure lab focused on repeatability and safe operations.
 
-- Publish a Linux administration lab with reproducible setup and troubleshooting notes.
-- Containerize a sample application with Docker Compose and document how to run it.
-- Build a GitHub Actions workflow that automates relevant checks and tests.
-- Practice repeatable infrastructure provisioning with Terraform, including safe cleanup steps.
-- Deploy a sample workload to a local Kubernetes environment and document how it is validated.
+- **Planned building blocks:** Terraform, AWS fundamentals, and Ansible where configuration management is useful.
+- **Platform concepts:** explicit inputs, reusable configuration, access boundaries, state awareness, and a documented cleanup process.
+- **Success criteria:** provisioning and cleanup steps are repeatable and risks are explained.
 
+### 3. Internal Developer Portal Prototype
+
+A learning prototype that demonstrates how developers can discover services and start from a consistent template.
+
+- **Planned building blocks:** Backstage software catalog, software templates, and TechDocs.
+- **Platform concepts:** service ownership, discoverability, a golden-path starter, and docs close to the code.
+- **Success criteria:** a user can find a sample service, understand who owns it, and follow the documented starter workflow.
+
+### 4. Platform Observability & Guardrails Lab
+
+A small example of adding operational visibility and basic controls to a sample workload.
+
+- **Planned learning areas:** metrics, logs, traces, health checks, policy as code, and container-image checks.
+- **Possible tools to explore:** OpenTelemetry, Prometheus, Grafana, and a Kubernetes policy engine.
+- **Success criteria:** the workload has documented signals, checks, and a clear way to investigate common failures.
+
+## How I Think About Platform Quality
+
+A platform should make the supported path easier to use and safer to operate. When I start evaluating my labs, I want to look beyond whether the deployment works once.
+
+| Signal | Question it helps answer |
+|---|---|
+| **Time to first successful deployment** | How quickly can a new user follow the golden path and ship a working change? |
+| **Task success & recovery** | Can users finish common workflows and understand what to do when something fails? |
+| **Adoption & repeat usage** | Do developers return to the platform because it is useful? |
+| **Delivery performance** | How are lead time, deployment frequency, change failures, and recovery time changing? |
+| **Developer feedback** | Where do users experience friction, confusion, or unnecessary cognitive load? |
+| **Reliability, security & cost** | Are services observable, guarded by sensible controls, and using resources responsibly? |
+
+These are evaluation goals for my learning projects—not results or metrics I claim to have achieved.
+
+## Learning Resources
+
+- [CNCF: What Is Platform Engineering?](https://www.cncf.io/blog/2025/11/19/what-is-platform-engineering/) — platform as a product, developer self-service, and golden paths.
+- [CNCF Platform Engineering Maturity Model](https://github.com/cncf/tag-app-delivery/blob/main/platforms-maturity-model/v1/index.md) — a framework for thinking about platform investment, adoption, interfaces, operations, and measurement.
+- [DORA: Platform Engineering Capability](https://dora.dev/capabilities/platform-engineering/) — developer experience, feedback, platform outcomes, and balanced measurement.
+- [Backstage Documentation](https://backstage.io/docs/) — software catalogs, templates, TechDocs, and developer-portal foundations.
+- [OpenTelemetry Documentation](https://opentelemetry.io/docs/) — vendor-neutral observability foundations for traces, metrics, and logs.
 
 ## Connect With Me
 
-I'm glad to connect with fellow learners, developers, and engineers interested in Cloud Computing, DevOps, and Infrastructure Engineering.
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Dark%20Banner.gif"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/main/Light%20Banner.gif"
-    alt="MD SHOHAN — Cloud & DevOps"
-    width="100%"
-  />
-</picture>
+I'm happy to connect with people working on platform engineering, cloud-native systems, developer experience, automation, and open-source tooling.
 
 <p align="center">
-  <a href="https://www.md-shohan.com">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Visit Portfolio"
-    />
-  </a>
+  <a href="https://www.md-shohan.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
   &nbsp;
-  <a href="https://github.com/MD-SH0HAN">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Follow on GitHub"
-    />
-  </a>
+  <a href="https://github.com/MD-SH0HAN"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
   &nbsp;
-  <a href="https://gitlab.com/MD-SHOHAN">
-    <img
-      src="https://img.shields.io/badge/GitLab-Visit-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="Visit GitLab"
-    />
-  </a>
+  <a href="https://gitlab.com/MD-SHOHAN"><img src="https://img.shields.io/badge/GitLab-Visit-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Visit GitLab" /></a>
   &nbsp;
-  <a href="mailto:mohammad.and.shohan@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Contact via Email"
-    />
-  </a>
+  <a href="mailto:mohammad.and.shohan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.facebook.com/mohammad.and.shohan" title="Facebook">
-    <img
-      src="https://cdn.simpleicons.org/facebook/0866FF"
-      width="40"
-      height="40"
-      alt="Facebook"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_md.shohan_/" title="Instagram">
-    <img
-      src="https://cdn.simpleicons.org/instagram/E4405F"
-      width="40"
-      height="40"
-      alt="Instagram"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.threads.com/@_md.shohan_" title="Threads">
-    <img
-      src="https://cdn.simpleicons.org/threads/8B8B8B"
-      width="40"
-      height="40"
-      alt="Threads"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.twitch.tv/md_shohan" title="Twitch">
-    <img
-      src="https://cdn.simpleicons.org/twitch/9146FF"
-      width="40"
-      height="40"
-      alt="Twitch"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tumblr.com/md-shohan" title="Tumblr">
-    <img
-      src="https://cdn.simpleicons.org/tumblr/36465D"
-      width="40"
-      height="40"
-      alt="Tumblr"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/MD-SH0HAN/" title="Reddit">
-    <img
-      src="https://cdn.simpleicons.org/reddit/FF4500"
-      width="40"
-      height="40"
-      alt="Reddit"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://vercel.com/md-shohan" title="Vercel">
-    <img
-      src="https://cdn.simpleicons.org/vercel/000000"
-      width="40"
-      height="40"
-      alt="Vercel"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gitlab.com/MD-SHOHAN" title="GitLab">
-    <img
-      src="https://cdn.simpleicons.org/gitlab/FC6D26"
-      width="40"
-      height="40"
-      alt="GitLab"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/1221600292915773468" title="Discord">
-    <img
-      src="https://cdn.simpleicons.org/discord/5865F2"
-      width="40"
-      height="40"
-      alt="Discord"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://hub.docker.com/u/mdsh0han" title="Docker">
-    <img
-      src="https://cdn.simpleicons.org/docker/2496ED"
-      width="40"
-      height="40"
-      alt="Docker"
-    />
-  </a>
-</p>
-
-## GitHub Contributions
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg"
-      alt="Animated GitHub contribution snake for MD-SH0HAN"
-      width="100%"
-    />
-  </picture>
-</p>
-
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
-    <img src="./profile/stats-light.svg" alt="GitHub statistics for MD-SH0HAN" height="180" />
+    <img src="./profile/stats-light.svg" alt="GitHub statistics for MD Shohan" height="180" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
@@ -294,5 +221,5 @@ I'm glad to connect with fellow learners, developers, and engineers interested i
 </p>
 
 <p align="center">
-  <i>Learning with purpose. Building through practice. Improving continuously.</i>
+  <em>Learn deliberately. Build reproducibly. Make developers more effective.</em>
 </p>
