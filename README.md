@@ -174,6 +174,35 @@ A platform should make the supported path easier to use and safer to operate. Wh
 
 These are evaluation goals for my learning projects—not results or metrics I claim to have achieved.
 
+## GitHub Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake for MD SHOHAN" width="100%" />
+  </picture>
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+    <img src="./profile/stats-light.svg" alt="GitHub statistics for MD Shohan" height="180" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+    <img src="./profile/top-langs-light.svg" alt="Most-used programming languages" height="180" />
+  </picture>
+</p>
+
+<p align="center">
+  <em>Learn deliberately. Build reproducibly. Make developers more effective.</em>
+</p>
+
 ## Connect With Me
 
 I'm happy to connect with people working on platform engineering, cloud-native systems, developer experience, automation, and open-source tooling.
@@ -210,33 +239,4 @@ I'm happy to connect with people working on platform engineering, cloud-native s
   <a href="https://discord.com/users/1221600292915773468" title="Discord"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" alt="Discord" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://hub.docker.com/u/mdsh0han" title="Docker Hub"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker Hub" /></a>
-</p>
-
-## GitHub Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake for MD SHOHAN" width="100%" />
-  </picture>
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
-    <img src="./profile/stats-light.svg" alt="GitHub statistics for MD Shohan" height="180" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
-    <img src="./profile/top-langs-light.svg" alt="Most-used programming languages" height="180" />
-  </picture>
-</p>
-
-<p align="center">
-  <em>Learn deliberately. Build reproducibly. Make developers more effective.</em>
 </p>
