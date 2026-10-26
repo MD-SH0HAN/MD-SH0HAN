@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="#about-me">👨‍💻 About Me</a> &nbsp;·&nbsp;
   <a href="#my-platform-engineering-direction">⚙️ Platform Engineering</a> &nbsp;·&nbsp;
   <a href="#technology-toolkit">🛠️ Technology Toolkit</a> &nbsp;·&nbsp;
   <a href="#learning-roadmap">🗺️ Learning Roadmap</a> &nbsp;·&nbsp;
