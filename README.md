@@ -13,19 +13,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.md-shohan.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/MD-SH0HAN"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://gitlab.com/MD-SHOHAN"><img src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab profile" /></a>
-  <a href="mailto:mohammad.and.shohan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <a href="#about-me">About</a> ·
-  <a href="#my-platform-engineering-direction">Platform Engineering</a> ·
-  <a href="#technology-toolkit">Toolkit</a> ·
-  <a href="#learning-roadmap">Roadmap</a> ·
-  <a href="#planned-labs--projects">Labs</a> ·
-  <a href="#learning-resources">Resources</a>
+  <a href="#about-me">👨‍💻 About Me</a> &nbsp;·&nbsp;
+  <a href="#my-platform-engineering-direction">⚙️ Platform Engineering</a> &nbsp;·&nbsp;
+  <a href="#technology-toolkit">🛠️ Technology Toolkit</a> &nbsp;·&nbsp;
+  <a href="#learning-roadmap">🗺️ Learning Roadmap</a> &nbsp;·&nbsp;
+  <a href="#planned-labs--projects">🧪 Labs &amp; Projects</a> &nbsp;·&nbsp;
+  <a href="#learning-resources">📚 Learning Resources</a>
 </p>
 
 ---
