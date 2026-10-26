@@ -184,14 +184,6 @@ A platform should make the supported path easier to use and safer to operate. Wh
 
 These are evaluation goals for my learning projects—not results or metrics I claim to have achieved.
 
-## Learning Resources
-
-- [CNCF: What Is Platform Engineering?](https://www.cncf.io/blog/2025/11/19/what-is-platform-engineering/) — platform as a product, developer self-service, and golden paths.
-- [CNCF Platform Engineering Maturity Model](https://github.com/cncf/tag-app-delivery/blob/main/platforms-maturity-model/v1/index.md) — a framework for thinking about platform investment, adoption, interfaces, operations, and measurement.
-- [DORA: Platform Engineering Capability](https://dora.dev/capabilities/platform-engineering/) — developer experience, feedback, platform outcomes, and balanced measurement.
-- [Backstage Documentation](https://backstage.io/docs/) — software catalogs, templates, TechDocs, and developer-portal foundations.
-- [OpenTelemetry Documentation](https://opentelemetry.io/docs/) — vendor-neutral observability foundations for traces, metrics, and logs.
-
 ## Connect With Me
 
 I'm happy to connect with people working on platform engineering, cloud-native systems, developer experience, automation, and open-source tooling.
