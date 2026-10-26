@@ -8,8 +8,6 @@
 
 <p align="center">
   <strong>PLATFORM ENGINEERING · INTERNAL DEVELOPER PLATFORMS · CLOUD-NATIVE AUTOMATION</strong>
-  <br />
-  <em>Building reliable, reusable, developer-friendly engineering workflows—one practical lab at a time.</em>
 </p>
 
 <p align="center">
