@@ -88,6 +88,7 @@ The badges below reflect tools already listed in my learning and practice areas.
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=linux&logoColor=white" alt="Windows Subsystem for Linux" />
 </p>
 
@@ -203,6 +204,40 @@ I'm happy to connect with people working on platform engineering, cloud-native s
   <a href="https://gitlab.com/MD-SHOHAN"><img src="https://img.shields.io/badge/GitLab-Visit-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Visit GitLab" /></a>
   &nbsp;
   <a href="mailto:mohammad.and.shohan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+</p>
+
+### Find Me Around the Web
+
+<p align="center">
+  <a href="https://www.facebook.com/mohammad.and.shohan" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="40" height="40" alt="Facebook" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_md.shohan_/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.com/@_md.shohan_" title="Threads"><img src="https://cdn.simpleicons.org/threads/8B8B8B" width="40" height="40" alt="Threads" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitch.tv/md_shohan" title="Twitch"><img src="https://cdn.simpleicons.org/twitch/9146FF" width="40" height="40" alt="Twitch" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tumblr.com/md-shohan" title="Tumblr"><img src="https://cdn.simpleicons.org/tumblr/36465D" width="40" height="40" alt="Tumblr" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/MD-SH0HAN/" title="Reddit"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40" alt="Reddit" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://vercel.com/md-shohan" title="Vercel"><img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gitlab.com/MD-SHOHAN" title="GitLab"><img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" height="40" alt="GitLab" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/1221600292915773468" title="Discord"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" alt="Discord" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://hub.docker.com/u/mdsh0han" title="Docker Hub"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker Hub" /></a>
+</p>
+
+## GitHub Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake for MD SHOHAN" width="100%" />
+  </picture>
 </p>
 
 ## GitHub Activity
