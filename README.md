@@ -206,7 +206,7 @@ These are evaluation goals for my learning projects—not results or metrics I c
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.md-shohan.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="https://www.md-sh0han.github.io/PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
   &nbsp;
   <a href="https://github.com/MD-SH0HAN"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
   &nbsp;
