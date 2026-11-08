@@ -7,172 +7,159 @@
 </p>
 
 <p align="center">
-  <strong>PLATFORM ENGINEERING · INTERNAL DEVELOPER PLATFORMS · CLOUD-NATIVE AUTOMATION</strong>
+  <strong>CLOUD ENGINEERING · DEVOPS ENGINEERING · PLATFORM ENGINEERING</strong>
 </p>
 
 <p align="center">
-  <a href="#my-platform-engineering-direction">⚙️ Platform Engineering</a> &nbsp;·&nbsp;
-  <a href="#technology-toolkit">🛠️ Technology Toolkit</a> &nbsp;·&nbsp;
-  <a href="#learning-roadmap">🗺️ Learning Roadmap</a> &nbsp;·&nbsp;
-  <a href="#planned-labs--projects">🧪 Labs &amp; Projects</a> &nbsp;·&nbsp;
-  <a href="#learning-resources">📚 Learning Resources</a>
+  <a href="#about-me">About</a> &nbsp;·&nbsp;
+  <a href="#engineering-work">Engineering Work</a> &nbsp;·&nbsp;
+  <a href="#technology-toolkit">Technology Toolkit</a> &nbsp;·&nbsp;
+  <a href="#engineering-principles">Engineering Principles</a> &nbsp;·&nbsp;
+  <a href="#current-learning-direction">Learning Direction</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
 </p>
 
 ---
 
 ## About Me
 
-I'm **MD Shohan**, a **Computer Science & Engineering student at Bangladesh University** building a foundation in **Platform Engineering** through cloud-native infrastructure, automation, and hands-on technical labs.
+I'm **MD Shohan**, a **Computer Science & Engineering undergraduate at Bangladesh University**. I'm building my career in **Cloud Engineering → DevOps Engineering → Platform Engineering**, with a strong interest in infrastructure automation, cloud-native systems, observability, reliability, and developer experience.
 
-I'm interested in making software delivery simpler and more reliable by turning repeatable engineering tasks into **documented, automated, secure, and self-service workflows**. My current foundation includes Linux, AWS fundamentals, Infrastructure as Code, containers, Kubernetes, and CI/CD. I'm growing these skills toward internal developer platforms and developer-focused engineering experiences.
+I enjoy turning repeatable engineering work into infrastructure and delivery workflows that are **reproducible, secure by default, observable, documented, and easier for developers to use**. My public portfolio records the code, configurations, tests, and limitations of the projects I'm building as I develop practical engineering skills.
 
-- 🎓 Computer Science & Engineering student
-- 🧱 Learning to build repeatable infrastructure and deployment workflows
-- ☸️ Practicing container and Kubernetes fundamentals
-- ⚙️ Exploring automation, platform interfaces, and developer self-service
-- 📚 Documenting labs with setup steps, validation, troubleshooting, and cleanup instructions
+- 🎓 **Education:** BSc in Computer Science & Engineering — Bangladesh University
+- 🌏 **Based in:** Bangladesh
+- ☁️ **Career direction:** Cloud infrastructure, DevOps automation, and platform engineering
+- 🧪 **Current work:** A local observability lab and source-ready Kubernetes, Terraform, GitOps, and Backstage platform assets
+- 🎯 **Long-term focus:** Reliable infrastructure and useful self-service workflows for software teams
 
-> **My approach:** understand the problem, build a reproducible solution, validate it, document it, and improve it from feedback.
+> **Engineering approach:** Understand the system, automate repeatable work, apply secure defaults, test failure paths, document operational decisions, and measure the outcome.
 
-## My Platform Engineering Direction
+<p align="center">
+  <a href="https://md-sh0han.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-Explore-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
+  &nbsp;
+  <a href="https://github.com/MD-SH0HAN/PORTFOLIO"><img src="https://img.shields.io/badge/Engineering_Repository-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="View engineering repository" /></a>
+  &nbsp;
+  <a href="mailto:mohammad.and.shohan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+</p>
 
-Platform Engineering is more than a collection of tools. It combines **people, processes, policies, and technology** to provide software teams with a reliable internal platform. The platform is treated as a product: developers are its users, their workflows shape its design, and feedback helps guide improvements.
+## Engineering Work
 
-My goal is to learn how to connect infrastructure, delivery automation, secure defaults, documentation, and operational visibility into **golden paths** that help developers build, test, deploy, and operate services with less avoidable complexity. An **internal developer platform (IDP)** is the underlying set of capabilities and workflows; a developer portal such as Backstage can provide a useful interface to those capabilities, but the portal alone is not the whole platform.
+My portfolio is organized around practical evidence rather than a list of tools. The status labels below are intentional: **source code is not the same as a deployed service**, and a local lab is not production infrastructure.
 
-### Principles I Want to Build Around
-
-| Principle | What it means in practice |
-|---|---|
-| **Platform as a Product** | Understand developer needs, collect feedback, improve the experience, and prioritize useful capabilities. |
-| **Self-Service by Default** | Let developers complete common tasks without waiting for manual platform-team intervention. |
-| **Golden Paths, Not Golden Cages** | Provide a well-supported recommended route while allowing documented, controlled exceptions when needed. |
-| **Secure and Governed Defaults** | Build in least-privilege access, safe configuration, policy checks, and responsible resource usage. |
-| **Automation with Clear Feedback** | Make workflows repeatable and show meaningful status, logs, errors, and next steps. |
-| **Measure Outcomes** | Evaluate usability, adoption, delivery flow, reliability, and developer feedback—not just the number of tools deployed. |
-
-### Platform Capability Map
-
-This map describes the areas I'm learning toward. It is a learning direction, **not a claim that I have already implemented a production internal developer platform**.
-
-| Platform Area | Key Topics | Current Direction |
+| Project | What the repository contains | Status |
 |---|---|---|
-| **Infrastructure Foundations** | Linux, networking, cloud resources, Infrastructure as Code | Build on AWS fundamentals, Terraform, and Ansible. |
-| **Workload Platform** | Containers, Kubernetes, Helm, registries, workload configuration | Practice with Docker, kind, Kubernetes, Helm, and GHCR. |
-| **Golden Paths & CI/CD** | Reusable pipelines, app templates, build/test/release workflows | Use GitHub Actions as a foundation for repeatable delivery. |
-| **Internal Developer Portal** | Service catalog, software templates, documentation, ownership | Learn the concepts and explore [Backstage](https://backstage.io/docs/). |
-| **GitOps & Release Management** | Declarative delivery, reconciliation, rollbacks, environment promotion | Explore GitOps workflows and tools such as [Argo CD](https://argo-cd.readthedocs.io/) or [Flux](https://fluxcd.io/docs/). |
-| **Security & Governance** | Identity and access, secrets, policy as code, image and dependency checks | Strengthen secure configuration and learn policy and supply-chain controls. |
-| **Observability & Reliability** | Logs, metrics, traces, alerts, SLIs/SLOs, incident learning | Explore [OpenTelemetry](https://opentelemetry.io/docs/), [Prometheus](https://prometheus.io/docs/), and [Grafana](https://grafana.com/docs/). |
-| **Developer Experience** | Discoverability, onboarding, task success, documentation, feedback | Learn to reduce friction and evaluate the platform from a developer's perspective. |
-| **Cost & Resource Governance** | Ownership, tagging, budgets, capacity, efficient defaults | Consider cost and resource visibility as part of platform design. |
+| [Observability Reference Lab](https://github.com/MD-SH0HAN/PORTFOLIO/tree/main/projects/laboratory) | Python HTTP API, Dockerfile, Docker Compose, Prometheus metrics and alert rules, provisioned Grafana dashboard, and automated tests | **Local reference implementation** — Docker Compose run instructions included; not presented as a production service |
+| [Kubernetes Workload Baseline](https://github.com/MD-SH0HAN/PORTFOLIO/tree/main/projects/laboratory/deploy/kubernetes) | Kustomize base and environment overlays, probes, resource requests/limits, non-root security context, read-only root filesystem, RBAC, HPA, PDB, and NetworkPolicy | **Source-ready** — no live cluster deployment claimed |
+| [Helm Chart](https://github.com/MD-SH0HAN/PORTFOLIO/tree/main/projects/laboratory/deploy/helm/laboratory-api) | Parameterized workload chart, health probes, security defaults, autoscaling, disruption budget, network policy, and values schema | **Source-ready** — chart lint/render is configured in CI; no cluster release claimed |
+| [AWS / Terraform Foundation](https://github.com/MD-SH0HAN/PORTFOLIO/tree/main/projects/laboratory/infrastructure/terraform) | Two-availability-zone VPC foundation, public/private subnets, ECR repository with scan-on-push and lifecycle policy, and explicitly opt-in NAT/EKS resources | **Source-ready** — not applied to an AWS account |
+| [Container Image Release Workflow](https://github.com/MD-SH0HAN/PORTFOLIO/blob/main/.github/workflows/laboratory-image.yml) | GitHub Actions workflow for API tests, image build, Trivy vulnerability gate, CycloneDX SBOM, GHCR publication, and digest output | **Workflow source included** — remote registry publication has not been verified |
+| [Argo CD GitOps Application](https://github.com/MD-SH0HAN/PORTFOLIO/tree/main/projects/laboratory/deploy/gitops) | Argo CD Application tracking the Helm chart with automated sync, prune, self-heal, and content-digest image pinning support | **Source-ready** — no live Argo CD sync claimed |
+| [Backstage Platform Starter](https://github.com/MD-SH0HAN/PORTFOLIO/tree/main/projects/platform/backstage) | Catalog Group/Component/API entities, a Python-service Scaffolder template, and a service skeleton with tests and CI workflow | **Starter source included** — no running Backstage installation or live template execution claimed |
+| [Portfolio Website](https://github.com/MD-SH0HAN/PORTFOLIO) | Responsive static site, accessible navigation, project case studies, architecture explanations, and clearly labelled synthetic demonstrations | **Built static website** |
+
+### How the pieces fit together
+
+```mermaid
+flowchart TD
+    DEV[Developer] --> PORTAL[Backstage catalog and template]
+    PORTAL --> REPO[Generated service repository]
+    REPO --> CI[GitHub Actions: test and build]
+    CI --> SCAN[Trivy scan and CycloneDX SBOM]
+    SCAN --> REG[GHCR image and content digest]
+    REG --> GIT[Digest-pinned Helm / GitOps configuration]
+    GIT --> ARGO[Argo CD reconciliation]
+    ARGO --> K8S[Kubernetes workload]
+    K8S --> OBS[Prometheus and Grafana]
+    TF[Terraform AWS foundation] -. optional infrastructure .-> AWS[AWS VPC / ECR / optional EKS]
+```
+
+This diagram describes the **intended source-level workflow**, not a claim that every component is connected to a live environment. The local observability lab is the implemented runtime reference; the cloud, Kubernetes, GitOps, and Backstage assets still require operator setup and deployment.
 
 ## Technology Toolkit
 
-The badges below reflect tools already listed in my learning and practice areas. **They do not imply equal proficiency or production experience with every tool.** Additional platform-engineering technologies are listed in the roadmap as topics to explore.
+The tools below are grouped by the evidence in my repositories. A badge indicates that a technology appears in my work or learning path; it does **not** claim equal proficiency or professional production experience.
 
-### Systems & Collaboration
+### Implemented in the current portfolio
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=linux&logoColor=white" alt="Windows Subsystem for Linux" />
 </p>
 
-### Cloud & Infrastructure as Code
+### Infrastructure and platform source included
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kustomize" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/GHCR-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Container Registry" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/Backstage-9BF0E1?style=flat-square&logo=backstage&logoColor=black" alt="Backstage" />
+</p>
+
+These tools have corresponding source files, configurations, or workflows in the portfolio. Tool-dependent commands and live deployment still need to be run in an appropriately configured environment.
+
+### Foundations I'm continuing to develop
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP-00599C?style=flat-square" alt="Networking" />
+  <img src="https://img.shields.io/badge/IAM_&_Cloud_Security-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="IAM and Cloud Security" />
+  <img src="https://img.shields.io/badge/SRE_&_Reliability-44546A?style=flat-square" alt="SRE and reliability" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
 
-### Containers & Kubernetes
+## Engineering Principles
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/kind-4B3263?style=flat-square&logo=kubernetes&logoColor=white" alt="kind" />
-  <img src="https://img.shields.io/badge/GHCR-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Container Registry" />
-</p>
-
-### Delivery, Networking & Service Configuration
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
-  <img src="https://img.shields.io/badge/OpenSSH-2E8B57?style=flat-square&logo=openssh&logoColor=white" alt="OpenSSH" />
-  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL" />
-  <img src="https://img.shields.io/badge/TLS%2FHTTPS-005571?style=flat-square&logo=letsencrypt&logoColor=white" alt="TLS and HTTPS" />
-</p>
-
-## Learning Roadmap
-
-My roadmap moves from reliable foundations toward a small, useful developer platform rather than trying to adopt every tool at once.
-
-1. **Strengthen the foundations** — Linux, Git, networking, DNS, TLS, containers, cloud fundamentals, and repeatable infrastructure with Terraform and Ansible.
-2. **Standardize software delivery** — build CI workflows for validation, testing, image creation, artifact publishing, and deployment checks.
-3. **Develop Kubernetes operating skills** — deployments, services, ingress, configuration, secrets, resource requests and limits, RBAC, health checks, and rollbacks.
-4. **Create a first golden path** — a starter-service workflow with documented defaults, reusable CI, container packaging, a deployment route, and troubleshooting guidance.
-5. **Explore the developer platform layer** — Backstage concepts, service catalogs, software templates, documentation-as-code, and self-service interfaces.
-6. **Add platform guardrails and visibility** — policy as code, supply-chain checks, GitOps, logs/metrics/traces, alerting, and basic SLO thinking.
-7. **Improve from evidence** — use developer feedback, onboarding friction, task success, adoption, delivery performance, reliability, and cost signals to decide what to improve next.
-
-## Planned Labs & Projects
-
-These are **planned learning projects**, not completed-project claims. I plan to publish each repository with setup instructions, architecture notes, validation steps, troubleshooting, and cleanup guidance.
-
-### 1. Golden-Path Service Starter
-
-A small application workflow demonstrating how a developer could move from a repository to a validated container image and a repeatable deployment.
-
-- **Planned building blocks:** Docker, GitHub Actions, GHCR, Helm, and a local Kubernetes cluster with kind.
-- **Platform concepts:** reusable workflow, sensible defaults, documented configuration, validation, and clear failure feedback.
-- **Success criteria:** another person can follow the instructions and reproduce the workflow.
-
-### 2. Reproducible Infrastructure Baseline
-
-A small, documented infrastructure lab focused on repeatability and safe operations.
-
-- **Planned building blocks:** Terraform, AWS fundamentals, and Ansible where configuration management is useful.
-- **Platform concepts:** explicit inputs, reusable configuration, access boundaries, state awareness, and a documented cleanup process.
-- **Success criteria:** provisioning and cleanup steps are repeatable and risks are explained.
-
-### 3. Internal Developer Portal Prototype
-
-A learning prototype that demonstrates how developers can discover services and start from a consistent template.
-
-- **Planned building blocks:** Backstage software catalog, software templates, and TechDocs.
-- **Platform concepts:** service ownership, discoverability, a golden-path starter, and docs close to the code.
-- **Success criteria:** a user can find a sample service, understand who owns it, and follow the documented starter workflow.
-
-### 4. Platform Observability & Guardrails Lab
-
-A small example of adding operational visibility and basic controls to a sample workload.
-
-- **Planned learning areas:** metrics, logs, traces, health checks, policy as code, and container-image checks.
-- **Possible tools to explore:** OpenTelemetry, Prometheus, Grafana, and a Kubernetes policy engine.
-- **Success criteria:** the workload has documented signals, checks, and a clear way to investigate common failures.
-
-## How I Think About Platform Quality
-
-A platform should make the supported path easier to use and safer to operate. When I start evaluating my labs, I want to look beyond whether the deployment works once.
-
-| Signal | Question it helps answer |
+| Principle | How I apply it |
 |---|---|
-| **Time to first successful deployment** | How quickly can a new user follow the golden path and ship a working change? |
-| **Task success & recovery** | Can users finish common workflows and understand what to do when something fails? |
-| **Adoption & repeat usage** | Do developers return to the platform because it is useful? |
-| **Delivery performance** | How are lead time, deployment frequency, change failures, and recovery time changing? |
-| **Developer feedback** | Where do users experience friction, confusion, or unnecessary cognitive load? |
-| **Reliability, security & cost** | Are services observable, guarded by sensible controls, and using resources responsibly? |
+| **Infrastructure as Code** | Keep infrastructure definitions reviewable, repeatable, and separated by environment. |
+| **Secure Defaults** | Prefer least privilege, non-root workloads, restricted capabilities, explicit network boundaries, and secret-safe workflows. |
+| **Automation with Feedback** | Validate changes in CI and make failures, logs, and next steps understandable. |
+| **GitOps and Traceability** | Keep desired deployment state version-controlled and use immutable image references for reviewed releases. |
+| **Observability and Reliability** | Use metrics, health checks, alerts, and tests to understand service behavior and failure recovery. |
+| **Platform as a Product** | Design templates and self-service workflows around developer needs, usability, ownership, and feedback. |
+| **Cost Awareness** | Treat cloud cost, resource limits, and safe cleanup as part of infrastructure design. |
+| **Honest Engineering Evidence** | Distinguish tested behavior, source-ready configuration, simulations, and actual deployments. |
 
-These are evaluation goals for my learning projects—not results or metrics I claim to have achieved.
+## Current Learning Direction
+
+My learning sequence is intentionally broad before it becomes specialized:
+
+1. **Systems foundations:** Linux, operating systems, networking, DNS, TLS, Git, Python, and Bash.
+2. **Cloud and infrastructure:** AWS networking and IAM, Terraform modules/state, security boundaries, and cost-aware resource design.
+3. **Containers and orchestration:** Docker, Kubernetes workloads, probes, resource management, RBAC, NetworkPolicy, and Helm.
+4. **Delivery and GitOps:** CI validation, image scanning, SBOMs, immutable image references, GitHub Actions, and Argo CD.
+5. **Observability and SRE:** metrics, logs, traces, alert testing, SLIs/SLOs, incident response, and recovery exercises.
+6. **Developer platforms:** Backstage catalog, software templates, documentation, golden paths, and self-service workflows.
+7. **Operational maturity:** cloud security, policy as code, FinOps, disaster recovery, and safe AI-assisted infrastructure workflows.
+
+I focus on learning a small set of complementary tools deeply instead of collecting badges for every product in the ecosystem.
+
+## Validation Snapshot
+
+**Portfolio source validation — 8 November 2026:**
+
+- 24 in-memory Chromium browser checks passed across nine viewport widths and both themes.
+- 12 observability API and smoke-script tests passed.
+- 4 Backstage service-skeleton tests passed.
+- Static HTML/CSS/JavaScript, infrastructure source-contract, standalone YAML, and workflow shell checks passed.
+
+**Environment limitation:** Docker Compose live integration, Terraform CLI validation, Helm rendering, Kubernetes application, AWS provisioning, GHCR publication, Argo CD synchronization, and live Backstage scaffolding were not executed in that packaging environment. See the [portfolio validation report](https://github.com/MD-SH0HAN/PORTFOLIO/blob/main/VALIDATION_RESULTS.md) for the exact scope. These checks must be run in the relevant tools or deployment environment before claiming a live release.
 
 ## GitHub Contribution Activity
 
@@ -180,7 +167,7 @@ These are evaluation goals for my learning projects—not results or metrics I c
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake for MD SHOHAN" width="100%" />
+    <img src="https://raw.githubusercontent.com/MD-SH0HAN/MD-SH0HAN/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity for MD Shohan" width="100%" />
   </picture>
 </p>
 
@@ -200,13 +187,13 @@ These are evaluation goals for my learning projects—not results or metrics I c
 </p>
 
 <p align="center">
-  <em>Learn deliberately. Build reproducibly. Make developers more effective.</em>
+  <em>Learn deliberately. Build reproducibly. Operate responsibly. Make developers more effective.</em>
 </p>
 
-## Connect With Me
+## Connect
 
 <p align="center">
-  <a href="https://www.md-sh0han.github.io/PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="https://md-sh0han.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
   &nbsp;
   <a href="https://github.com/MD-SH0HAN"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
   &nbsp;
@@ -214,23 +201,23 @@ These are evaluation goals for my learning projects—not results or metrics I c
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/mohammad.and.shohan" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="40" height="40" alt="Facebook" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_md.shohan_/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.threads.com/@_md.shohan_" title="Threads"><img src="https://cdn.simpleicons.org/threads/8B8B8B" width="40" height="40" alt="Threads" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.twitch.tv/md_shohan" title="Twitch"><img src="https://cdn.simpleicons.org/twitch/9146FF" width="40" height="40" alt="Twitch" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tumblr.com/md-shohan" title="Tumblr"><img src="https://cdn.simpleicons.org/tumblr/36465D" width="40" height="40" alt="Tumblr" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/MD-SH0HAN/" title="Reddit"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40" alt="Reddit" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://vercel.com/md-shohan" title="Vercel"><img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gitlab.com/MD-SHOHAN" title="GitLab"><img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" height="40" alt="GitLab" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/1221600292915773468" title="Discord"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" alt="Discord" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://hub.docker.com/u/mdsh0han" title="Docker Hub"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker Hub" /></a>
+  <a href="https://www.facebook.com/mohammad.and.shohan" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="36" height="36" alt="Facebook" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_md.shohan_/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" alt="Instagram" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.threads.com/@_md.shohan_" title="Threads"><img src="https://cdn.simpleicons.org/threads/8B8B8B" width="36" height="36" alt="Threads" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.twitch.tv/md_shohan" title="Twitch"><img src="https://cdn.simpleicons.org/twitch/9146FF" width="36" height="36" alt="Twitch" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.tumblr.com/md-shohan" title="Tumblr"><img src="https://cdn.simpleicons.org/tumblr/36465D" width="36" height="36" alt="Tumblr" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/MD-SH0HAN/" title="Reddit"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="36" height="36" alt="Reddit" /></a>
+  &nbsp;&nbsp;
+  <a href="https://vercel.com/md-shohan" title="Vercel"><img src="https://cdn.simpleicons.org/vercel/000000" width="36" height="36" alt="Vercel" /></a>
+  &nbsp;&nbsp;
+  <a href="https://gitlab.com/MD-SHOHAN" title="GitLab"><img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="36" height="36" alt="GitLab" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/1221600292915773468" title="Discord"><img src="https://cdn.simpleicons.org/discord/5865F2" width="36" height="36" alt="Discord" /></a>
+  &nbsp;&nbsp;
+  <a href="https://hub.docker.com/u/mdsh0han" title="Docker Hub"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker Hub" /></a>
 </p>
