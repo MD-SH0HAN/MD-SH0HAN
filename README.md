@@ -132,17 +132,6 @@ My learning sequence is intentionally broad before it becomes specialized:
 
 I focus on learning a small set of complementary tools deeply instead of collecting badges for every product in the ecosystem.
 
-## Validation Snapshot
-
-**Portfolio source validation — 8 November 2026:**
-
-- 24 in-memory Chromium browser checks passed across nine viewport widths and both themes.
-- 12 observability API and smoke-script tests passed.
-- 4 Backstage service-skeleton tests passed.
-- Static HTML/CSS/JavaScript, infrastructure source-contract, standalone YAML, and workflow shell checks passed.
-
-**Environment limitation:** Docker Compose live integration, Terraform CLI validation, Helm rendering, Kubernetes application, AWS provisioning, GHCR publication, Argo CD synchronization, and live Backstage scaffolding were not executed in that packaging environment. See the [portfolio validation report](https://github.com/MD-SH0HAN/PORTFOLIO/blob/main/VALIDATION_RESULTS.md) for the exact scope. These checks must be run in the relevant tools or deployment environment before claiming a live release.
-
 ## GitHub Contribution Activity
 
 <p align="center">
