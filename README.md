@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>CLOUD ENGINEERING · DEVOPS ENGINEERING · PLATFORM ENGINEERING</strong>
+  <strong>CLOUD · DEVOPS · PLATFORM</strong>
 </p>
 
 <p align="center">
