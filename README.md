@@ -58,24 +58,6 @@ My portfolio is organized around practical evidence rather than a list of tools.
 | [Backstage Platform Starter](https://github.com/MD-SH0HAN/PORTFOLIO/tree/main/projects/platform/backstage) | Catalog Group/Component/API entities, a Python-service Scaffolder template, and a service skeleton with tests and CI workflow | **Starter source included** — no running Backstage installation or live template execution claimed |
 | [Portfolio Website](https://github.com/MD-SH0HAN/PORTFOLIO) | Responsive static site, accessible navigation, project case studies, architecture explanations, and clearly labelled synthetic demonstrations | **Built static website** |
 
-### How the pieces fit together
-
-```mermaid
-flowchart TD
-    DEV[Developer] --> PORTAL[Backstage catalog and template]
-    PORTAL --> REPO[Generated service repository]
-    REPO --> CI[GitHub Actions: test and build]
-    CI --> SCAN[Trivy scan and CycloneDX SBOM]
-    SCAN --> REG[GHCR image and content digest]
-    REG --> GIT[Digest-pinned Helm / GitOps configuration]
-    GIT --> ARGO[Argo CD reconciliation]
-    ARGO --> K8S[Kubernetes workload]
-    K8S --> OBS[Prometheus and Grafana]
-    TF[Terraform AWS foundation] -. optional infrastructure .-> AWS[AWS VPC / ECR / optional EKS]
-```
-
-This diagram describes the **intended source-level workflow**, not a claim that every component is connected to a live environment. The local observability lab is the implemented runtime reference; the cloud, Kubernetes, GitOps, and Backstage assets still require operator setup and deployment.
-
 ## Technology Toolkit
 
 The tools below are grouped by the evidence in my repositories. A badge indicates that a technology appears in my work or learning path; it does **not** claim equal proficiency or professional production experience.
