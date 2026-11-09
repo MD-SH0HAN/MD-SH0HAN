@@ -221,19 +221,20 @@ I aim to build depth in the fundamentals and demonstrate progress through workin
   </picture>
 </p>
 
-## Connect
-
+Connect
 <p align="center">
   <a href="https://md-sh0han.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
-  &nbsp;
   <a href="https://github.com/MD-SH0HAN"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-  &nbsp;
-  <a href="mailto:mohammad.and.shohan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
-</p>
-
-<p align="center">
+  <a href="mailto:mohammad.and.shohan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+</p><p align="center">
   <a href="https://gitlab.com/MD-SHOHAN">GitLab</a> ·
-  <a href="https://hub.docker.com/u/mdsh0han">Docker Hub</a>
-</p>
-
-<p align="center"><em>Automate the delivery. Secure the infrastructure. Observe the system. Improve continuously.</em></p>
+  <a href="https://hub.docker.com/u/mdsh0han">Docker Hub</a> ·
+  <a href="https://vercel.com/md-shohan">Vercel</a> ·
+  <a href="https://www.facebook.com/mohammad.and.shohan">Facebook</a> ·
+  <a href="https://www.instagram.com/_md.shohan_">Instagram</a> ·
+  <a href="https://www.threads.com/@_md.shohan_">Threads</a> ·
+  <a href="https://www.twitch.tv/md_shohan">Twitch</a> ·
+  <a href="https://www.tumblr.com/md-shohan">Tumblr</a> ·
+  <a href="https://www.reddit.com/user/MD-SH0HAN/">Reddit</a> ·
+  <a href="https://discord.com/users/1221600292915773468">Discord</a>
+</p><p align="center"><em>Learn deliberately. Build reproducibly. Operate responsibly. Make developers more effective.</em></p>
