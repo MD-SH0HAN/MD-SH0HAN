@@ -221,12 +221,15 @@ I aim to build depth in the fundamentals and demonstrate progress through workin
   </picture>
 </p>
 
-Connect
+## Connect
+
 <p align="center">
   <a href="https://md-sh0han.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
   <a href="https://github.com/MD-SH0HAN"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
   <a href="mailto:mohammad.and.shohan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-</p><p align="center">
+</p>
+
+<p align="center">
   <a href="https://gitlab.com/MD-SHOHAN">GitLab</a> ·
   <a href="https://hub.docker.com/u/mdsh0han">Docker Hub</a> ·
   <a href="https://vercel.com/md-shohan">Vercel</a> ·
@@ -237,4 +240,6 @@ Connect
   <a href="https://www.tumblr.com/md-shohan">Tumblr</a> ·
   <a href="https://www.reddit.com/user/MD-SH0HAN/">Reddit</a> ·
   <a href="https://discord.com/users/1221600292915773468">Discord</a>
-</p><p align="center"><em>Learn deliberately. Build reproducibly. Operate responsibly. Make developers more effective.</em></p>
+</p>
+
+<p align="center"><em>Learn deliberately. Build reproducibly. Operate responsibly. Make developers more effective.</em></p>
