@@ -223,30 +223,23 @@ I aim to build depth in the fundamentals and demonstrate progress through workin
 <p align="center"><em>Learn deliberately. Build reproducibly. Operate responsibly. Make developers more effective.</em></p>
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
+  <a href="mailto:mohammad.and.shohan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
   <a href="https://github.com/MD-SH0HAN">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://md-sh0han.github.io/PORTFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:mohammad.and.shohan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://gitlab.com/MD-SHOHAN">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-  <a href="https://hub.docker.com/u/mdsh0han">
-    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
-  </a>
-  <a href="https://vercel.com/md-shohan">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  &nbsp;
+  <a href="https://outlook.office.com/mail/deeplink/compose?to=mohammad.and.shohan%40outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
   </a>
 </p>
 
-### 💬 Social & Community
+## Social
 
 <p align="center">
   <a href="https://discord.com/users/1221600292915773468">
@@ -257,16 +250,16 @@ I aim to build depth in the fundamentals and demonstrate progress through workin
     <img src="https://cdn.simpleicons.org/reddit/FF4500" width="35" height="35" alt="Reddit" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.threads.com/@_md.shohan_">
-    <img src="https://cdn.simpleicons.org/threads/8B8B8B" width="35" height="35" alt="Threads" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/_md.shohan_/">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" height="35" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/mohammad.and.shohan">
     <img src="https://cdn.simpleicons.org/facebook/0866FF" width="35" height="35" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.threads.com/@_md.shohan_">
+    <img src="https://cdn.simpleicons.org/threads/8B8B8B" width="35" height="35" alt="Threads" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.twitch.tv/md_shohan">
@@ -277,8 +270,3 @@ I aim to build depth in the fundamentals and demonstrate progress through workin
     <img src="https://cdn.simpleicons.org/tumblr/36465D" width="35" height="35" alt="Tumblr" />
   </a>
 </p>
-
-<p align="center">
-  <i>Open to DevOps opportunities, technical discussions, and collaboration.</i>
-</p>
-
