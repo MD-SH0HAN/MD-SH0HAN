@@ -234,9 +234,11 @@ I aim to build depth in the fundamentals and demonstrate progress through workin
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://outlook.office.com/mail/deeplink/compose?to=mohammad.and.shohan%40outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
-  </a>
+<a href="https://outlook.office.com/mail/deeplink/compose?to=mohammad.and.shohan%40outlook.com">
+  <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="22" height="22" alt="Outlook" />
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge" alt="Outlook" />
+</a>
+
 </p>
 
 ## Social
